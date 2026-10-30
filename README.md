@@ -1,7 +1,6 @@
 # Airline Passenger Satisfaction Analysis and Prediction
 ## Exploratory Data Analysis, Logistic Regression, and an Interactive React Dashboard
 
-Built exactly to the project report specifications:
 - **Project Area**: Data Analytics and Machine Learning
 - **Dataset**: Airline Passenger Satisfaction (Kaggle)
 - **Core Algorithm**: Logistic Regression (Scikit-learn)
@@ -13,7 +12,6 @@ Built exactly to the project report specifications:
 
 ## 🏗️ System Architecture & Directory Structure
 
-Conforms strictly to **Section 14 (Project Directory Structure and Implementation Plan)** of the project report:
 
 ```text
 Airline-Satisfaction-Project/
@@ -118,7 +116,6 @@ npm run dev
 
 ## 🎯 Model Performance Summary (Section 9 & 15)
 
-Evaluated strictly on the held-out Kaggle test partition (`test.csv` - 25,976 records):
 
 - **Accuracy**: **87.18%**
 - **Precision**: **86.94%**
