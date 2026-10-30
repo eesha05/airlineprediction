@@ -97,7 +97,7 @@ npm run dev
 
 ---
 
-## 📡 Backend API Endpoints (Section 13)
+## 📡 Backend API Endpoints 
 
 | Endpoint | Method | Purpose |
 | :--- | :--- | :--- |
@@ -114,7 +114,7 @@ npm run dev
 
 ---
 
-## 🎯 Model Performance Summary (Section 9 & 15)
+## 🎯 Model Performance Summary 
 
 
 - **Accuracy**: **87.18%**
